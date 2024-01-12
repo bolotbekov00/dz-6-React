@@ -1,0 +1,18 @@
+.basket {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9px;
+    margin-bottom: 5px;
+}
+
+.counter button {
+    border-radius: 50%;
+}

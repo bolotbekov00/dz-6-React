@@ -4,8 +4,8 @@ import {Route, Routes} from "react-router-dom";
 
 import Layout from "./component/Layout.jsx";
 import Home from "./pages/Home.jsx";
-import ProductPages from "./pages/ProductPages.jsx";
-import BasketPages from "./pages/BasketPages.jsx";
+import ProductPages from "./pages/ProductPages/ProductPages.jsx";
+import BasketPages from "./pages/bascketPages/BasketPages.jsx";
 
 function App() {
     return (

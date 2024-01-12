@@ -1,0 +1,36 @@
+.block{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.block-product{
+    width: 292px;
+    height: 531px;
+    padding: 22px 20px;
+    border-radius: 12px;
+    background: #494848;
+}
+
+img{
+    width: 252px;
+    height: 336px;
+}
+
+.price{
+    color: #242424;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    letter-spacing: -0.18px;
+    text-transform: uppercase;
+}
+
+span{
+    color: #999;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.28px;
+}
